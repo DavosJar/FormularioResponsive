@@ -1,9 +1,9 @@
 # FormularioResponsive
-<<<<<<< HEAD
 # Se creo la estructura del formulario en html
-=======
 # Html
 # StylesCss para definir aspecto visual
-# Svripts para validar los daros de entrada
-# hotfix para mostrar correctamente el encio de formulario
->>>>>>> hotfixesScript
+# Scripts para validar los daros de entrada
+# hotfix para mostrar correctamente el envio de formulario
+# relese de la version 1.2.0
+# Aplicar animacioes
+# Release de la version 2.0.0
