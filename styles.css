@@ -56,10 +56,13 @@ input[type="submit"]:hover {
     background-color: #ffffff;
     color: #0a192f;
 }
+<<<<<<< HEAD
 #confirmationMessage{
     display: none;
     color: #64ffda;
 }
+=======
+>>>>>>> EstilosCss
 @media (max-width: 600px) {
     .form-container {
         max-width: 100%;
